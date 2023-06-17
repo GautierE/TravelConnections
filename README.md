@@ -17,6 +17,7 @@
     <p>Technology Stack</p>
     <ul>
       <li>Next.js (React.js &amp; Express.js)</li>
+      <li>Mapbox</li>
       <li>SWR for API calls</li>
       <li>Tailwind CSS for styling</li>
       <b>
@@ -49,8 +50,14 @@
         <li>AWS deployment setup</li>
         <li>Continuous Integration and Continuous Deployment (CI/CD) using GitHub Actions</li>
         <li>Infrastructure as Code (IaC) using AWS CloudFormation</li>
-         <li>Monitoring performance/errors</li>
+        <li>Monitoring performance/errors</li>
       </ul>
     </b>
+  </li>
+    <li>
+      <p>Project management</p>
+      <ul>
+        <li><b>Jira for issue tracking and project management</b></li>
+      </ul>
   </li>
 </ol>
